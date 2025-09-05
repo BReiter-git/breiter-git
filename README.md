@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+| Syntax | Description | SAMPLE |
+| ----------- | ----------- | ----------- | 
+| Header | Title | SAMPLE |
+| Paragraph | Text | SAMPLE |
+
 <!--
 **BReiter-git/breiter-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
