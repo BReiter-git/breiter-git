@@ -1,9 +1,13 @@
-## Hi there 👋
+## 👋 About Me
+I’m learning GitHub and building cool stuff along the way.
 
-| Syntax | Description | SAMPLE |
-| ----------- | ----------- | ----------- | 
-| Header | Title | SAMPLE |
-| Paragraph | Text | SAMPLE |
+## 🌱 Current Focus
+- Project Managment
+- Technical documentation
+- Knowledge base contribution
+
+## 📫 Reach Me
+[LinkedIn](https://linkedin.com/in/elizabeth-reiter-arizona)`
 
 <!--
 **BReiter-git/breiter-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
